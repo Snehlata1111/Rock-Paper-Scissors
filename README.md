@@ -2,6 +2,10 @@
 
 A responsive and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer with an intuitive interface and responsive design.
 
+## Live Demo
+
+[Play Rock Paper Scissors](https://rockpaperscissor-silk.vercel.app/)
+
 ## Overview
 
 ### Features
